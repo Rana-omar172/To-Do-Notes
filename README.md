@@ -4,7 +4,7 @@ A clean and modern **To-Do Notes** web app built using **React**, **Vite**, and 
 It allows users to create, edit, and delete personal notes with a minimal and responsive interface.
 
 🌐 **Live Demo:**  
-👉 [https://rana-omar172.github.io/To-Do-Notes/](https://rana-omar172.github.io/To-Do-Notes/)
+👉 (https://rana-omar172.github.io/To-Do-Notes/))
 
 ---
 
